@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (C) 2018 Havoc-OS
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+<resources>
+    <!-- Floating action button -->
+    <color name="fab_color">@*android:color/white</color>
+    <color name="floating_action_button_icon_color">@*android:color/accent_device_default_light</color>
+	
+    <!-- Custom Carrier Label -->
+    <color name="status_bar_carrier_color">#FFFFFFFF</color>
+
+    <!-- Screen pinning layout -->
+    <color name="screen_pinning_background_color">@*android:color/accent_device_default_light</color>
+    <color name="screen_pinning_title_text">@android:color/white</color>
+    <color name="screen_pinning_description_text">@android:color/white</color>
+    <color name="screen_pinning_button_text">@android:color/white</color>
+    <color name="screen_pinning_bg_circ_color">#40FFFFFF</color>
+    <color name="screen_pinning_nav_icon_hightlight_outer_color">@android:color/white</color>
+
+    <!-- Zen QS panel -->
+    <color name="zen_qs_panel_close_button_color">@android:color/white</color>
+
+    <!-- Recents membar text color -->
+    <color name="recents_membar_text_color">@android:color/white</color>
+
+    <!-- Theming accent color membar recent app -->
+    <color name="accent_membar_color">@*android:color/accent_device_default_light</color>
+
+    <color name="system_primary_color">@*android:color/primary_material_light</color>
+    <color name="system_accent_color">@*android:color/accent_device_default_light</color>
+
+    <!-- QS edit page background color -->
+    <color name="qs_edit_item_decoration_bg">@*android:color/secondary_device_default_settings_light</color>
+
+    <!-- Quicksettings main QS background-->
+    <color name="quick_settings_status_bar_background_color">#ff000000</color>
+
+    <!-- Pie colors -->
+    <color name="pie_foreground">#ff8a8a8a</color>
+    <color name="pie_background">#ffffffff</color>
+    <color name="pie_icon">#4dffffff</color>
+    <color name="pie_line">#ffffff</color>
+    <color name="pie_selected">#ff000000</color>
+    <color name="pie_back_button">#ff8a8a8a</color>
+    <color name="pie_home_button">#ff8a8a8a</color>
+    <color name="pie_recent_button">#ff8a8a8a</color>
+    <color name="pie_background_circle">#33000000</color>
+    <color name="pie_dark_background">@*android:color/accent_material_dark</color>
+    <color name="pie_dark_snap_point">#4a4a4a</color>
+    <color name="pie_battery">#76c124</color>
+    <color name="pie_battery_med">#ff3d00</color>
+    <color name="pie_battery_low">#f90028</color>
+    <color name="pie_shader_start">#FF4d4d4d</color>
+    <color name="pie_shader_end">#FF212121</color>
+
+    <!-- Device accent -->
+    <color name="accent_device_default_light">@*android:color/accent_device_default_light</color>
+
+    <!-- Gesture Anywhere -->
+    <color name="ga_bg_gradient_start">#e8FFFFFF</color>
+    <color name="ga_bg_gradient_center">#d0c3c0c0</color>
+    <color name="ga_bg_gradient_end">#4b686868</color>
+    <color name="ga_gesture_color">#e8212121</color>
+    <color name="ga_info_text_color">#e8212121</color>
+    <color name="ga_info_icon_color">#e8212121</color>
+    <color name="ga_fab_bg_color">@android:color/white</color>
+    <color name="ga_fab_icon_color">@*android:color/accent_material_dark</color>
+    <color name="ga_fab_color_ripple">#ff7a7a7a</color>
+</resources>
